@@ -1,0 +1,3 @@
+/home/jose/CLionProjects/EJ1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jose/CLionProjects/EJ1/cmake-build-debug/CMakeFiles/EJ1.dir
+/home/jose/CLionProjects/EJ1/cmake-build-debug/CMakeFiles/edit_cache.dir
